@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hafsa</h1>
 <h3 align="center">Passionate cs student with insomnia</h3>
 
-- 🔭 Currently diving into **Machine Learning**
+- 🔭 Currently diving into **Full Stack Web Development**
 
 - 👨‍💻 Portfolio: [https://hafsa-sarker-portfolio.netlify.app/](https://hafsa-sarker-portfolio.netlify.app/)
 
-- 💬 Ask me about **Coffee**
-
 - 📫 Shoot me an email: **hafsahaqs@gmail.com**
 
-- ⚡ Fun fact (kind of): **I've watched 90% of all the historical K-Drama's :P**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
